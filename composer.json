@@ -1,5 +1,5 @@
 {
-    "name": "temian/referral-syste,",
+    "name": "temian/referral-system",
     "description": "Laravel package for a referral system",
     "keywords": [
         "temian",
@@ -17,7 +17,7 @@
     "authors": [
         {
             "name": "temian",
-            "email": "infoeboy@gmai.com"
+            "email": "infoeboy@gmail.com"
         }
     ],
     "require": {
