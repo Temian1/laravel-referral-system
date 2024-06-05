@@ -32,7 +32,7 @@ The "jijunair/laravel-referral" package is a custom Laravel package that provide
 You can install the package via Composer by running the following command:
 
 ```bash
-composer require jijunair/laravel-referral
+composer require temian/referral-system
 ```
 
 #### Configuration
